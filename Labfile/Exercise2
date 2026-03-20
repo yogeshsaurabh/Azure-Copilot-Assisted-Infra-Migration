@@ -1,4 +1,0 @@
-
-1. Enter the prompt **create a migration assessment for server1**. It will create a estimated cost for the serves.
-
-1. Enter the prompt **Proceed to set up the platform landing zone**. It will give you the Terraform script for landing zone deployo with CI-CD.
