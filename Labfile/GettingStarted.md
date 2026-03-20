@@ -66,7 +66,7 @@ The architecture diagram outlines a series of labs focused on migrating workload
 
 ## Architecture Diagram
 
-![A slide shows the on-premises SmartHotel application architecture.](Images/archdia.png)
+![A slide shows the on-premises SmartHotel application architecture.](Images/architecturediagram.png)
 
 ## Explanation of Components  
 
