@@ -179,6 +179,39 @@ In this task, you will deploy the Azure Migrate appliance in the on-premises Hyp
 1. Enter the Prompt **show me discovered servers in the this project**. It will show you the discovered servers in this project.
 
 
+# Exercise 2: Business Value & ROI Justification 
+
+### Task 1: Estimate current infrastructure cost baseline with Copilot
+
+1. Enter the prompt **create a migration assessment for server1**. It will create a estimated cost for the serves. download and open the file and review it.
+
+1. Enter the prompt **Proceed to set up the platform landing zone**. It will give you the Terraform script for landing zone deployo with CI-CD.
+
+1. Enter the prompt **Show results for**.
+
+1. Enter the prompt **Proceed to set up the platform landing zone**.
+
+1. Enter the prompt **Set organization name to contoso**.
+
+1. Enter the prompt **Proceed to networking preferences**.
+
+1. Enter the prompt **Keep Hub-and-Spoke**.
+
+1. Enter the prompt **Proceed with Azure Firewall**.
+
+1. Enter the prompt **Proceed to final review**.
 
 
+
+### Task 2: Prioritize workloads for migration based on value (Read-Only)
+
+Prioritizing workloads for migration based on value in an Azure Migrate project means deciding which applications or servers to move first to get maximum benefit while minimizing risk and cost, instead of migrating everything at once.
+
+This approach evaluates workloads using two key factors: business value and technical feasibility. Business value focuses on how important a workload is—such as systems that impact revenue, customer experience, or core operations. Migrating these early can improve performance, scalability, and reduce costs, especially for workloads that are expensive to maintain on-premises. Security and compliance requirements also increase a workload’s priority, as Azure provides strong built-in protections.
+
+At the same time, technical feasibility ensures the migration is smooth. Some workloads are simple and easy to move, while others are complex, dependent on multiple systems, or built on legacy technologies. Tools in Azure Migrate, such as dependency mapping and readiness assessments, help identify which workloads can be migrated quickly and which need more planning.
+
+In practice, organizations usually start with workloads that are high in value and low in complexity to achieve quick wins. More complex and critical systems are migrated later in a controlled manner, while low-value or outdated workloads may be postponed or retired.
+
+Overall, this strategy helps organizations make smart, data-driven decisions, ensuring faster benefits, reduced risks, and a more efficient cloud migration journey.
 
