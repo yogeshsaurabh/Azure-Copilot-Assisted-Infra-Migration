@@ -1,6 +1,6 @@
-# HOL1: Exercise 1: Configure and discover the Workloads to Azure Migrate with Azure Copilot
+# Exercise 1: Agentic Discovery & Assessment
 
-In this Exercise, you will use Azure Copilot to perform Server Assessment to assess the on-premises environment. This will include selecting Azure Migrate tools, deploying the Azure Migrate appliance into the on-premises environment, creating a migration assessment, and using the Azure Migrate dependency visualization.
+In this Exercise, you will use Azure Copilot to perform Server Assessment of on-premises environment. This will include selecting Azure Migrate tools, deploying the Azure Migrate appliance into the on-premises environment, creating a migration assessment, and using the Azure Migrate dependency visualization.
 
 ## Lab objectives
 
