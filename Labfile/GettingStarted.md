@@ -1,4 +1,4 @@
-# Infrastructure Migration 
+# Azure Copilot assisted Infrastructure Migration 
 
 ## Overall Estimated Duration: 8 Hours
 
